@@ -12,9 +12,9 @@ public class Main {
 				start.Generator();
 			}
 			catch (Exception e){
-				System.out.println("------------------------------------");
+				System.out.println("-------------------------------------");
 				System.out.println("  Invalid Entry, Please Try again!");
-				System.out.println("------------------------------------");
+				System.out.println("-------------------------------------");
 				iCounter--;
 			}
 		}
